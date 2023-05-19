@@ -1,0 +1,24 @@
+.name{
+    border: 1px solid black;
+    height: 750px;
+    width: 88%;
+    background-image:url(frame.jpg);
+    background-repeat: no-repeat;
+    font-size: 75px;
+    color: #f9f7f7;
+    display: inline-block;
+    
+}
+.relationship{
+    border: 1px solid black;
+    height: 700px;
+    width: 50%;
+    background-image: url(single.jpg);
+    display: inline-block;
+    color: aqua;
+    font-size: 75px;
+}
+.text{
+    margin-left: 11%;
+    margin-top: 50%;
+}
